@@ -131,3 +131,8 @@ It allows you to:
 
 - Total Score
   - ruleScore + aiPoints
+ 
+
+## Backend Deployed
+https://lead-scoring-service.onrender.com
+
