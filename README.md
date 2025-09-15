@@ -8,16 +8,16 @@ It provides APIs to evaluate leads based on predefined rules and AI analysis for
 ## Project Structure
 
 
-lead_scoring_service/
-├── src/
-│ ├── routes/ # API route definitions
-│ ├── services/ # Business logic (AI & rule scoring)
-│ └── controllers/ # Optional controllers
-├── uploads/ # File uploads (if any)
-├── server.js # Entry point
-├── package.json
-├── .env # API keys and config (not in repo)
-└── README.md
+- **lead_scoring_service/**
+  - **src/**
+    - **routes/** – API route definitions
+    - **services/** – Business logic (AI & rule scoring)
+    - **controllers/** – Optional controllers
+  - **uploads/** – File uploads (if any)
+  - **server.js** – Entry point
+  - **package.json**
+  - **.env** – API keys and config (not in repo)
+  - **README.md**
 
 
 
