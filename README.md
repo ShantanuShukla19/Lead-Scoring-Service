@@ -131,6 +131,11 @@ It allows you to:
 
 - Total Score
   - ruleScore + aiPoints
+
+- Note
+  
+  -If the AI scoring fails, it may be due to an exhausted OpenAI API quota.
+   In that case, you can try again later, and it will give the desired output.
  
 
 ## Backend Deployed
