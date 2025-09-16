@@ -134,8 +134,8 @@ It allows you to:
 
 - Note
   
-  -If the AI scoring fails, it may be due to an exhausted OpenAI API quota.
-   In that case, you can try again later, and it will give the desired output.
+  -If the AI scoring fails, it is because the OpenAI API quota is exhausted.
+  In that case, you can try again later, and it will give the desired output.
  
 
 ## Backend Deployed
